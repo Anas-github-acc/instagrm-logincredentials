@@ -96,9 +96,9 @@ function loginPage() {
           </div>
 
         </div>
-        <div className="phones-container">
+        {/* <div className="phones-container">
             <img src="/photos/phones.png" />
-        </div>
+        </div> */}
       </div>
       <footer>
           <ul className="footer-links">
